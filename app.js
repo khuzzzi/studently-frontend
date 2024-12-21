@@ -19,7 +19,7 @@ const PORT = 3000;
 
 
 const corsOptions = {
-    origin: ["https://studently-2-xipj.vercel.app"], // Allow requests from this origin
+    origin: ["https://studently-frontend-real.vercel.app"], // Allow requests from this origin
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
 };
